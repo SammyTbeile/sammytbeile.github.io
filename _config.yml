@@ -28,7 +28,7 @@ twitter_username: sammytbeile
 github_username:  sammytbeile
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 pygments: true
